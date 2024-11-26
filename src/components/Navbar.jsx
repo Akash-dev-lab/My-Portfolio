@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <>
             <nav className='w-full py-[2vw] px-[0vw flex items-center justify-between z-[100] relative'>
-                <img className='w-20 rounded-full' src="/public/Akash_bg_remove.png" alt="" />
+                <img className='w-20 rounded-full' src="/Akash_bg_remove.png" alt="" />
                 <div className='nav-part2 flex items-center gap-[1vw]'>
                     <h4><a className='text-#000000bb no-underline relative z-[9]' href="#">Work</a></h4>
                     <h4><a className='text-#000000bb no-underline relative z-[9]' href="#">Resume</a></h4>
